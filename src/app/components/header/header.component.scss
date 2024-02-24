@@ -1,0 +1,25 @@
+header {
+    background-color: rgba(0,0,0,0);
+}
+
+.navbar {
+    background-color: rgba(0,0,0,0) !important;
+}
+
+.navbar .container{
+    background-color: rgba(0,0,0,0) !important;
+}
+
+.navbar .container .navbar-brand{
+
+}
+
+.navbar .container .navbar-nav .nav-link{
+    border-radius: 18px;
+    padding: 8px 16px;
+}
+
+.navbar .container .navbar-nav .nav-link.active{
+    background-color: rgb(127, 68, 255) !important;
+    color: white;
+}
